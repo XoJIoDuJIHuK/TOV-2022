@@ -1,0 +1,39 @@
+﻿  CodeGen.cpp
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\CodeGen.cpp(16,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\CodeGen.cpp(370,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\CodeGen.cpp(609,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Error.cpp
+  FST.cpp
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\FST.cpp(50,34): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  Greibach.cpp
+  IT.cpp
+  In.cpp
+  LT.cpp
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(30,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(75,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(113,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(152,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(164,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(172,10): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(179,30): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(197,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(623,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(720,22): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "ERROR_THROW"
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(859,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(902,41): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+  Log.cpp
+  MFST.cpp
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\MFST.cpp(256,68): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Out.cpp
+  Parm.cpp
+  Polization.cpp
+  Semantic.cpp
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\Semantic.cpp(39,21): warning C4018: >=: несоответствие типов со знаком и без знака
+  TOV-2022.cpp
+  Создание кода...
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\Parm.cpp(75): warning C4715: Parm::getparm: значение возвращается не при всех путях выполнения
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\Out.cpp(22): warning C4715: Out::getout: значение возвращается не при всех путях выполнения
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\Log.cpp(27): warning C4715: Log::getlog: значение возвращается не при всех путях выполнения
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(985): warning C4715: LT::LexAnalyze: значение возвращается не при всех путях выполнения
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\In.cpp(107): warning C4715: In::getin: значение возвращается не при всех путях выполнения
+  TOV-2022.vcxproj -> D:\_УЧЁБА_\nanolanguage, son\TOV-2022\Debug\TOV-2022.exe
