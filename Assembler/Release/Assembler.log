@@ -1,0 +1,4 @@
+﻿STDLIB.lib(LIB.obj) : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:ICF"
+LINK : warning LNK4098: библиотека по умолчанию "libucrt.lib" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+Out.obj : error LNK2001: неразрешенный внешний символ _stringlength@4.
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\Release\Assembler.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

@@ -1,0 +1,77 @@
+add number function tonumber(string a);
+add number function stringlength(string a);
+add number function indexof(string a, string b);
+add number function userstringcompare(string a, string b);
+
+number function fii(number x, number y)
+{
+    var number z;
+    z = x * (x + y);
+    return z;
+}
+
+symbol function returnbiggersymbol(symbol a, symbol b)
+{
+    var symbol ret;
+    if (a > b)
+    {
+        ret = a;
+    }
+    else
+    {
+        ret = b;
+    }
+    return ret;
+}
+
+symbol function fsym()
+{
+    return "q";
+}
+
+string function fss (string a, string b)
+{
+    var string c;
+    if (a < b)
+    {
+	    c = a + ' is less than ' + b;
+	    print c;
+	    print stringlength(a);
+    }
+    else if (a == b)
+    {
+        c = a + ' equals ' + b;
+        print c;
+        print stringlength(a);
+    }
+    else
+    {
+	    c = a + ' is bigger than ' + b;
+        print c;
+        print tonumber(a);
+    }
+    return c;
+}
+
+main   
+{
+    var number x;
+    x = tonumber('1234432');
+    print x;
+    var number y;
+    var number z;
+    var string sa;
+    var string sb;
+    var string sc;
+    x = 1;
+    y = 5;
+    sa = '1234567890';
+    sb = '123456789  0';
+    z = fii(x, y);
+    sc = fss(sa, sb);
+    print 'control example';
+    print z;
+    print stringlength(sc, sc);
+    print sc;
+    print returnbiggersymbol("q", "a");
+}

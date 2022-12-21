@@ -1,0 +1,50 @@
+add number function tonumber(string a);
+add number function stringlength(string a);
+add number function indexof(string a, string b);
+add number function userstringcompare(string a, string b);
+
+number function fii(number x, number y)
+{
+    var number z;
+    z = x * (x + y);
+    return z;
+}
+string function fss (string a, string b)
+{
+    var string c;
+    if (a < b)
+    {
+	    c = a + ' is less than ' + b;
+	    print indexof(a, b);
+    }
+    else if (a == b)
+    {
+        c = a + ' equals ' + b;
+        print stringlength(a);
+    }
+    else
+    {
+	    c = a + ' is bigger than ' + b;
+        print tonumber(a);
+    }
+    return c;
+}
+
+main   
+{
+    print (1)+1;
+    var number x;
+    var number y;
+    var string sa;
+    var string sb;
+    var string sc;
+    x = 1;
+    y = 5;
+    sa = '1234567890';
+    sb = '123456789  0';
+    print fii(x, y);
+    sc = fss(sa, sb);
+    print sc;
+    print stringlength(sc);
+    print userstringcompare(sa, sb);
+}

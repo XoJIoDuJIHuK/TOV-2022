@@ -1,0 +1,24 @@
+﻿  CodeGen.cpp
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\CodeGen.cpp(16,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\CodeGen.cpp(370,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\CodeGen.cpp(611,21): warning C4018: <: несоответствие типов со знаком и без знака
+  LT.cpp
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(27,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(72,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(110,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(149,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(161,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(169,10): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(176,30): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(194,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(621,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(718,22): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "ERROR_THROW"
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(857,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(900,41): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+  Создание кода
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\LT.cpp(983): warning C4715: LT::LexAnalyze: значение возвращается не при всех путях выполнения
+  10 of 1036 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  TOV-2022.vcxproj -> D:\_УЧЁБА_\nanolanguage, son\TOV-2022\Release\TOV-2022.exe

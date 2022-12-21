@@ -1,0 +1,5 @@
+﻿  CodeGen.cpp
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\CodeGen.cpp(16,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\CodeGen.cpp(400,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\_УЧЁБА_\nanolanguage, son\TOV-2022\TOV-2022\CodeGen.cpp(642,21): warning C4018: <: несоответствие типов со знаком и без знака
+  TOV-2022.vcxproj -> D:\_УЧЁБА_\nanolanguage, son\TOV-2022\Debug\TOV-2022.exe
